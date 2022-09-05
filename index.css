@@ -28,3 +28,11 @@ h1, h3 {
     padding: 8px;
     font-weight: 600;
 }
+
+@media screen and (min-width: 480px) 
+{
+    .cover {
+        width: 300px;
+        background-color: #181316;
+    }
+}
